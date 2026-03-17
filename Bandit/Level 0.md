@@ -18,3 +18,7 @@ After logging in, list the files and read the readme file
 
 Password for Level 1  
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If  
+
+### Screenshots
+![Step 1 - Login](./Image/bandit0_ssh.png)
+![Step 2 - Password](./Image/bandit0_pass.png)
